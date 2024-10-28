@@ -111,3 +111,4 @@ E_{\text{total}} = KE + PE = \text{constante}
 ---
 
 Este resumen proporciona una base para entender cómo se comportan sistemas físicos con movimiento, incluyendo los conceptos de energía, potencia y disipación. Cada uno de estos conceptos es crucial para analizar la dinámica de sistemas conservativos y no conservativos.
+

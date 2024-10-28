@@ -6,11 +6,9 @@ Este repositorio contiene una introducción a conceptos fundamentales de la Din�
 
 Este trabajo fue realizado por los siguientes integrantes del equipo:
 
-- **[Nombre del integrante 1]**
-- **[Nombre del integrante 2]**
-- **[Nombre del integrante 3]**
-- **[Nombre del integrante 4]**
-- **[Nombre del integrante 5]**
+- **[Jhohann Deywy Peña Peña]**
+- **[Sebastian Hernandez Fontecha]**
+
 
 ---
 
@@ -120,4 +118,3 @@ $$
 
 ---
 
-Este archivo contiene una breve introducción a los conceptos clave en dinámica de sistemas. Estos conceptos se aplican a menudo en el análisis de sistemas físicos con movimientos y energías específicas.

@@ -1,6 +1,18 @@
-¿# Introducción a la Dinámica de Sistemas
+# Introducción a la Dinámica de Sistemas
 
-Este repositorio contiene una introducción a conceptos fundamentales de la Dinámica de Sistemas, útiles para modelar y analizar sistemas físicos en movimiento y sus energías asociadas. 
+Este repositorio contiene una introducción a conceptos fundamentales de la Dinámica de Sistemas, útiles para modelar y analizar sistemas físicos en movimiento y sus energías asociadas.
+
+## Integrantes
+
+Este trabajo fue realizado por los siguientes integrantes del equipo:
+
+- **[Nombre del integrante 1]**
+- **[Nombre del integrante 2]**
+- **[Nombre del integrante 3]**
+- **[Nombre del integrante 4]**
+- **[Nombre del integrante 5]**
+
+---
 
 ## Tabla de Contenidos
 - [Energía Cinética](#energía-cinética)

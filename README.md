@@ -6,8 +6,8 @@ Este repositorio contiene una introducción a conceptos fundamentales de la Din�
 
 Este trabajo fue realizado por los siguientes integrantes del equipo:
 
-- **[Jhohann Deywy Peña Peña]**
-- **[Sebastian Hernandez Fontecha]**
+- **Jhohann Deywy Peña Peña**
+- **Sebastian Hernandez Fontecha**
 
 
 ---
